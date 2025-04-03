@@ -9,6 +9,8 @@ company_name = []
 location_name = []
 skills = []
 
+#youssef mohamed youssef
+
 
 # The role of this function is to get all the data inside the 
 results = requests.get("https://wuzzuf.net/search/jobs/?q=Python&a=hpb")
